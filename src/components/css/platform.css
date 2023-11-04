@@ -1,0 +1,16 @@
+.platforms{
+    padding:30px 0 0 0;
+}
+
+.platforms h2 {
+    margin-bottom:30px;
+}
+
+.button-platform {
+    background:none;
+    border: 2px solid #fff;
+    border-radius:5px;
+    height:200px;
+    margin-bottom:30px;
+    width:100%;
+}
